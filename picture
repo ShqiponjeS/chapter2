@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>images</title>
+</head>
+<body>
+<p>
+<img src="gtr.png" width="200" height= "320"
+alt="photo number one">
+<img src="../gtr1.png" width="500" height= "620">
+</p>
+</body>
+</html>
