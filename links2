@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Links</title>
+</head>
+<body>
+<h1> Keto jan faqet e mia te preferuara </h1>
+<p><strong>Kliko ne at emer per te shkuar ne at faqe</strong></p>
+<ul>
+	<li><a href="http://www.youtube.com">Youtube</a></li>
+	<li><a href="http://www.wikipedia.org">Wikipedia</a></li>
+	<li><a href="http://www,amazon.com">Amazon</a></li>
+	<li><a href="http://www.linkedin.com">Linked</a></li>
+</ul>
+</body>
+</html>
