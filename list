@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lists</title>
+</head>
+<body>
+<h1>Me te mirat e Internetit per te ardhmen</h1>
+<ul>
+	<li>ti mundesh te te takosh njerz te ri nga vende te tjera rreth botes</li>
+	<li>ti ke te drejt ne media sapo te behet publike</li>
+	<li>Lojra te rea</li>
+	<li>Aplikaciona te ri
+	<ol>
+		<li>Per Biznes</li>
+		<li>Per Knaqesi</li>
+	</ol>
+	<li>Te rejat rreth ores</li>
+	<li>Kerko Motorra</li>
+	<li>Shopping</li>
+	<li>Programim
+		<ol>
+			<li>XML</li>
+			<li>Java</li>
+			<li>HTML5</li>
+			<li>JavaScript</li>
+			<li>New Languages</li>
+		</ol>
+	</li>
+</ul>
+<ul>
+    <li>Linkat</li>
+    <li>Rri ne kontakt me shoket e vjeter</li>
+    <li>eshte teknologjia e se ardhmes</li>
+</ul>
+</body>
+</html>
