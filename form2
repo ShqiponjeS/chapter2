@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>more forms</title>
+</head>
+<body>
+	<h1>FeedBack form</h1>
+	<p>Please fill out this form to help us improve our site.</p>
+	<form method="post" action="http://www.youtube.com">
+		<input type="hidden" name="recipient"
+		value="arlindigtr@gmail.com">
+		<input type="hidden0" name="subject"
+		value="FeedBack form">
+		<input type="hidden" name="redirect"
+		value="main.html">
+		<p><label>Name
+			<input name="name" type="text" size="25"
+			></label></p>
+			<p><label>E-mail Address:
+				<input name="email" type="password" size="25">
+			</label></p>
+			<p>
+				<strong>things you liked</strong><br>
+				<label>site design
+					<input name="thingsliked" type="checkbox"
+					value="design"></label>
+					<label>Links
+						<input name="thingsliked" type="checkbox"
+						value="Links"></label>
+					<label>Ease of use
+						<input name="thingsliked" type="checkbox"
+						value="Ease"></label>
+					<label>Images
+					   <input name="thingsliked" type="checkbox"
+					   value="Images"></label>
+					 <label>Source code
+					 	<input name="thingsliked" type="checkbox"
+					 	value="code"></label>
+			</p>
+			<p>
+				<strong>how did you get to our site?:</strong><br>
+				<label>Serach engine
+					<input name="Howtosite" type="raio"
+					value="Serach engine" checked></label>
+				<label>Links from another site
+				   <input name="Howtosite" type="radio"
+				   value="link"></label>
+				<label>Deitel.com Web Site 
+				    <input name="Howtosite" type="radio"
+				      value="deitel.com"></label> 
+				<label>reference in a book
+				     <input name="Howtosite" type="radio"
+				     value="book"></label>
+				<label>other
+				     <input name="Howtosite" type="radio"
+				     value="other"></label>
+			</p>
+
+			<p>
+				<label>Rate our Site:
+				   <select name="Rating"
+				     <option selected>Amazing</option>
+				     <option>10</option>
+				     <option>9</option>
+				     <option>8</option>
+				     <option>7</option>
+				     <option>6</option>
+				     <option>5</option>
+				     <option>4</option>
+				     <option>3</option>
+				     <option>2</option>
+				     <option>1</option>
+				     <option>Awful</option>
+				 </select>
+		       </label>
+			</p>
+
+			<p>
+				<input type= "sumbit" value="sumbit">
+				<input type= "reset" value="clear">
+			</p>
+		</form>
+     </body>
+</html>
